@@ -22,7 +22,7 @@
 <h4>37 Xueyuan Road, Haidian District, Beijing, China 100083</h4>
 <h4>sunshe@act.buaa.edu.cn ssjihoufeng@126.com</h4>
 <h3>Interests</h3>
-<p>Privacy, Location Based service, Big Data, 儒释道，易经
+<p>Privacy, Location Based service, Big Data, 儒释道，易经，心理学，精神分析
 
 </p>
 <h3>Short Bio</h3>
@@ -55,9 +55,6 @@
 <p>2019.1.6---至今         参加中国音乐学院毕业生唐鸿志老师的声乐培训
 
 </p>
-<p>2019.4.20、21           师从少林寺曹洞正宗第33代拳法传人王洪欣老师学习八段锦
-
-</p>
 <h3>Links</h3>
 <p>WeChat：ssjihoufeng
 
@@ -66,9 +63,3 @@
 
 </p>
 <p>微信公众号：SeasonWind
-
-
-
-</p>
-<p>Edit By <a href="http://mahua.jser.me">MaHua</a></p>
-</body></html>
