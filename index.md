@@ -22,7 +22,7 @@
 
 </p>
 <h3>Short Bio</h3>
-<p>I am working toward my Ph.D. degree at the School of Computer Science and Engineering, Beihang University, supervised by Prof. Shuai Ma. I received my MS degree in applied mathematics from Northwestern polytechnical university in 2016, and received my BS degree in environment science from Northwestern polytechnical university in 2016.
+<p>I am working toward my Ph.D. degree at the School of Computer Science and Engineering, Beihang University, supervised by Prof. Shuai Ma. I received my MS degree in applied mathematics from Northwestern polytechnical university in 2016, and received my BS degree in environment science from Northwestern polytechnical university in 2013.
 
 </p>
 <h3>Publications</h3>
