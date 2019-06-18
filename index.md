@@ -1,5 +1,5 @@
 <body><h1>Sun She 孙设</h1>
-    <img src="/touxiang.jpg" width="30%">
+    <img src="/插花.jpg" width="30%">
 <h4>Ph.D. Student</h4>
 <p>Data Management and Analysis Group (DMAG)
 
